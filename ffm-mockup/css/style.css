@@ -1,0 +1,37 @@
+/* Basic CSS Reset */
+/* Font has been linked in index.html and applied to the entire document */
+/* DO NOT edit the Reset */
+/* Add necessary CSS below Respective Comment */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gruppo', sans-serif;
+}
+
+/* Start Styling Here! */
+
+/* Body */
+
+/* Header */
+
+/* Nav */
+
+/* Main */
+
+/* Overlay */
+
+/* Footer */
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+  /* Main */
+}
+
+@media screen and (max-width: 576px) {
+  /* Navbar */
+
+  /* Main */
+
+  /* Footer */
+}
