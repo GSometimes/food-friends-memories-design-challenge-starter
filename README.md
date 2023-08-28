@@ -10,11 +10,11 @@ But the culinary journey isn’t just about food for Alex. It’s about the stor
 
 |                     Desktop                      |
 | :----------------------------------------------: |
-| ![ffm-desktop-render](/food-friends-memories-starter/ffm-mockup/assets/Desktop-Mockup.jpg) |
+| ![ffm-desktop-render](ffm-mockup/assets/Desktop-Mockup.jpg) |
 
 |                     Tablet                     |                     Mobile                     |
 | :--------------------------------------------: | :--------------------------------------------: |
-| ![ffm-tablet-render](/food-friends-memories-starter/ffm-mockup/assets/Tablet-Mockup.jpg) | ![ffm-mobile-render](/food-friends-memories-starter/ffm-mockup/assets/Mobile-Mockup.jpg) |
+| ![ffm-tablet-render](ffm-mockup/assets/Tablet-Mockup.jpg) | ![ffm-mobile-render](ffm-mockup/assets/Mobile-Mockup.jpg) |
 
 # Who You're Creating For
 
@@ -103,15 +103,15 @@ The CSS for the hamburger menu is set, but it needs some JavaScript logic to bec
 
 -   **Toggle Functionality**: Add an event listener to the hamburger icon. When clicked, toggle a class like `.active` to display or hide the navigation menu.
     
--   **Close on Link Click**: When a navigation link is clicked, the menu should automatically close on mobile views.
+-   **Close on Link Click**: When a navigation link is clicked, the menu should automatically close.
 
 |                     Desktop                      |
 | :----------------------------------------------: |
-| ![ffm-overlay-open-desktop-render](/food-friends-memories-starter/ffm-mockup/assets/Overlay-Open-Desktop.jpg) |
+| ![ffm-overlay-open-desktop-render](ffm-mockup/assets/Overlay-Open-Desktop.jpg) |
 
 |                     Tablet                     |                     Mobile                     |
 | :--------------------------------------------: | :--------------------------------------------: |
-| ![ffm-tablet-render](/food-friends-memories-starter/ffm-mockup/assets/Overlay-Open-Tablet.jpg) | ![ffm-mobile-render](/food-friends-memories-starter/ffm-mockup/assets/Overlay-Open-Mobile.jpg) |
+| ![ffm-tablet-render](ffm-mockup/assets/Overlay-Open-Tablet.jpg) | ![ffm-mobile-render](ffm-mockup/assets/Overlay-Open-Mobile.jpg) |
     
 ### **3. Staggered Animations**
 
@@ -123,4 +123,4 @@ Enhance the user's entrance to your site with staggered fade-in animations for y
 
 # You Made It?
 
-Toast to your success with a glass of moscato and uncrustables french toast. You've earned it!
+Toast to your success with a glass of moscato and uncrustables French toast. You've earned it!
